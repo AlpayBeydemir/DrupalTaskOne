@@ -1,0 +1,4 @@
+name: Event Registration
+description: This module allows users to register for events.
+type: module
+core_version_requirement: ^9 || ^10

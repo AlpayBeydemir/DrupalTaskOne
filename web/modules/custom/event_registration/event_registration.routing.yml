@@ -1,0 +1,8 @@
+event_registration:
+    path: /event-registration
+    defaults:
+        _form: Drupal\event_registration\Form\EventRegistrationForm
+        _title: Event Registration
+    requirements:
+      _permission: 'access content'
+      _access: 'TRUE'
